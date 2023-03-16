@@ -19,7 +19,6 @@ From production data is possible to predict future oil production based on past 
 > - Measure the accuracy of the results obtained in the forecast using the MSE.
 > - Development of a model in RandomForest to predict the next month's oil production.
 
-'''
 ## :chart_with_upwards_trend: Results
 
 > - Forecast charts track real production most of the time.
@@ -29,16 +28,16 @@ From production data is possible to predict future oil production based on past 
 <table>
   <tr>
     <td align="center">
-      <a href="image-1.jpg">
-        <img src="image-1.jpg" width="100px;" alt=" "/><br>
+      <a href="image-1.png">
+        <img src="image-1.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Real x Predicted 1</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="image-2.jpg">
-        <img src="image-2.jpg" width="100px;" alt=" "/><br>
+      <a href="image-2.png">
+        <img src="image-2.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Real x Predicted 2</b>
         </sub>
