@@ -11,7 +11,7 @@
 
 ### :speech_balloon: Intro
 
-From production data is possible to predict future oil production based on past trends. Machine learning tools such as the SckitLearn library allow you to make these predictions using methods such as Linear Regression and RandomForest. Depending on the dataset, one method may be more efficient than the other. In this project we used both methods, using the MSE to measure the accuracy of the results.
+From production data is possible to predict future oil production based on past trends. Machine learning tools such as the ScikitLearn library allow you to make these predictions using methods such as Linear Regression and RandomForest. Depending on the dataset, one method may be more efficient than the other. In this project we used both methods, using the MSE to measure the accuracy of the results.
 
 ### :rocket: Objectives
 
